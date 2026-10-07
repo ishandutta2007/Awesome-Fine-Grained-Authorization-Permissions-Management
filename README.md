@@ -1,7 +1,7 @@
 # Awesome Fine-Grained Authorization & Permissions Management 🔐 🛡️
 
 <p align="center">
-  <img src="assets/banner.svg" alt="Awesome Fine-Grained Authorization Permissions Management Banner" width="100%">
+  <img src="assets/banner.svg" alt="Awesome Fine-Grained Authorization & Permissions Management Banner" width="100%">
 </p>
 
 <p align="center">
@@ -15,45 +15,45 @@
 
 ---
 
-## 🌟 Top Fine-Grained Authorization, ReBAC & Permissions Management Ecosystem
+## 🌟 Top Fine-Grained Authorization, ReBAC & Permissions Management Ecosystem 🔑
 
-**Curated Directory of Enterprise SaaS Authorization Platforms & Open-Source Policy Engines**  
-*Focused on Relationship-Based Access Control (ReBAC), Attribute-Based Access Control (ABAC), Policy-as-Code (OPA/Cedar/Rego), Google Zanzibar Implementations, PDP/PEP Infrastructure & Self-Hosted Decision Engines.*
+**Curated Directory of Enterprise SaaS Authorization Platforms & Open-Source Policy Engines** 🛡️  
+*Focused on Relationship-Based Access Control (ReBAC), Attribute-Based Access Control (ABAC), Policy-as-Code (OPA/Cedar/Rego), Google Zanzibar Implementations, PDP/PEP Architecture & Self-Hosted Decision Engines.*
 
 **Last updated: October 2026** 📅
 
 ---
 
-### 📌 Overview & Architecture Summary
+### 📌 Overview & Architecture Summary 🏛️
 
 Welcome to the definitive developer and security reference for **fine-grained authorization (FGA)**, **open-source policy engines**, and **ReBAC/ABAC access control architecture**. Modern cloud-native applications require decoupling authorization logic from application code. Whether you need enterprise managed platforms (*Auth0 FGA*, *Permit.io*, *Styra DAS*, *PlainID*, *Oso Cloud*) or self-hosted open-source authorization engines (*Casbin*, *OPA*, *SpiceDB*, *OpenFGA*, *OPAL*, *Cerbos*), this guide maps out key commercial and open-source capabilities.
 
-#### Key Architectural Trade-offs & Market Context:
-- **Google Zanzibar (ReBAC Graph Model):** Inspired by Google's 2019 whitepaper, **SpiceDB**, **OpenFGA**, and **Permify** store relationships as tuples in centralized graph stores. Optimized for reverse lookup (`ListObjects` / "Which resources can user X view?") with **sub-10ms p99 response times**.
-- **Stateless Policy Decision Points (PDPs):** **Cerbos**, **OPA**, and **Cedar** act as stateless sidecars evaluating declarative policies (YAML, Rego, Cedar). Extremely fast (`< 1ms` latency) for direct check operations, but require external data provisioning or workarounds for list filtering.
-- **Hybrid Architectures:** **Topaz (Aserto)** and **OPAL (Permit.io)** bridge the gap by combining relationship directories with policy-as-code decision engines and real-time state synchronization.
+#### Key Architectural Trade-offs & Market Context 💡:
+- **Google Zanzibar (ReBAC Graph Model):** Inspired by Google's 2019 whitepaper, **SpiceDB**, **OpenFGA**, and **Permify** store relationships as tuples in centralized graph stores. Optimized for reverse lookup (`ListObjects` / "Which resources can user X view?") with **sub-10ms p99 response times**. ⚡
+- **Stateless Policy Decision Points (PDPs):** **Cerbos**, **OPA**, and **Cedar** act as stateless sidecars evaluating declarative policies (YAML, Rego, Cedar). Extremely fast (`< 1ms` latency) for direct check operations, but require external data provisioning or workarounds for list filtering. 📜
+- **Hybrid Architectures:** **Topaz (Aserto)** and **OPAL (Permit.io)** bridge the gap by combining relationship directories with policy-as-code decision engines and real-time state synchronization. 🔄
 
 ---
 
-## 📑 Table of Contents
+## 📑 Table of Contents 📖
 
-- [📊 Market Overview & Sector Structure](#-market-overview--sector-structure)
-- [🏢 SaaS & Commercial Authorization Platforms](#-saas--commercial-authorization-platforms)
-- [🔓 Open-Source Authorization Engines & Repositories](#-open-source-authorization-engines--repositories)
-- [🛠️ How to Contribute](#%EF%B8%8F-how-to-contribute)
-- [📊 Star History](#-star-history)
-- [🤝 Support & Sponsorship](#-support--sponsorship)
-- [⚠️ Architecture & Deployment Disclaimer](#%EF%B8%8F-architecture--deployment-disclaimer)
+- [📊 Market Overview & Sector Structure](#-market-overview--sector-structure-)
+- [🏢 SaaS & Commercial Authorization Platforms](#-saas--commercial-authorization-platforms-)
+- [🔓 Open-Source Authorization Engines & Repositories](#-open-source-authorization-engines--repositories-)
+- [🛠️ How to Contribute](#%EF%B8%8F-how-to-contribute-)
+- [🤝 Support & Sponsorship](#-support--sponsorship-)
+- [📊 Star History](#-star-history-)
+- [⚠️ Architecture & Deployment Disclaimer](#%EF%B8%8F-architecture--deployment-disclaimer-)
 
 ---
 
-## 📊 Market Overview & Sector Structure
+## 📊 Market Overview & Sector Structure 💼
 
 > 💡 **Market Size & Industry Dynamics:** The global Identity and Fine-Grained Authorization (FGA) market is estimated at **$3.5 Billion in 2026** (projected to reach $8.2 Billion by 2030 at an 18.5% CAGR). The sector is **highly fragmented**, spanning distinct architectural paradigms—ranging from Google Zanzibar relationship graphs (ReBAC) to stateless decision engines (ABAC/PBAC) and embedded libraries—with no single winner-take-all enterprise vendor.
 
 ---
 
-## 🏢 SaaS & Commercial Authorization Platforms
+## 🏢 SaaS & Commercial Authorization Platforms 🌐
 
 *Sorted by Company Valuation / Total Funding (Descending)* 📈
 
@@ -68,7 +68,7 @@ Welcome to the definitive developer and security reference for **fine-grained au
 
 ---
 
-## 🔓 Open-Source Authorization Engines & Repositories
+## 🔓 Open-Source Authorization Engines & Repositories 🚀
 
 *Sorted by GitHub Star Count (Descending)* 🌟
 
@@ -122,7 +122,7 @@ Welcome to the definitive developer and security reference for **fine-grained au
 
 ---
 
-## 🛠️ How to Contribute
+## 🛠️ How to Contribute 🤝
 
 Contributions to this directory are actively encouraged! Follow these steps to submit a new fine-grained authorization platform or open-source engine:
 
@@ -133,26 +133,26 @@ Contributions to this directory are actively encouraged! Follow these steps to s
 
 ---
 
+## 🤝 Support & Sponsorship ☕
+
+If you find this fine-grained authorization directory useful, please consider supporting the project:
+
+- ⭐ **Star** this repository on GitHub to increase visibility!
+- 🔀 **Fork** and share with fellow security engineers, platform teams, and open-source advocates.
+- ☕ **Sponsor & Buy Me a Coffee**: Support ongoing open-source security research via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
 ## 📊 Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Fine-Grained-Authorization-Permissions-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Fine-Grained-Authorization-Permissions-Management&type=date&legend=top-left)
 
 ---
 
-## 🤝 Support & Sponsorship
+## ⚠️ Architecture & Deployment Disclaimer 🔒
 
-If this reference guide helps your team evaluate authorization architectures, please consider supporting the repository:
-
-- ⭐ **Star** this repository on GitHub to increase visibility!
-- 🔀 **Fork** and share with security architects, platform teams, and IAM developers.
-- ☕ **Sponsor**: Support open-source security research via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
-
----
-
-## ⚠️ Architecture & Deployment Disclaimer
-
-- **Community Curated Reference:** This list represents independent research for security engineers and software architects — not an official endorsement.
-- **ReBAC (Zanzibar) vs. ABAC (Stateless PDP):** Choosing between graph-based relationship stores (*SpiceDB*, *OpenFGA*) vs. stateless policy sidecars (*Cerbos*, *OPA*) is an architectural decision. ReBAC excels at deep relationship trees and reverse queries (`ListObjects`), whereas stateless PDPs excel at rapid local evaluation (`< 1ms Check`).
+- **Community Curated Reference:** This list represents independent research for security engineers and software architects — not an official endorsement. ℹ️
+- **ReBAC (Zanzibar) vs. ABAC (Stateless PDP):** Choosing between graph-based relationship stores (*SpiceDB*, *OpenFGA*) vs. stateless policy sidecars (*Cerbos*, *OPA*) is an architectural decision. ReBAC excels at deep relationship trees and reverse queries (`ListObjects`), whereas stateless PDPs excel at rapid local evaluation (`< 1ms Check`). ⚖️
 - **Data Stores & Operational Requirements:** Open-source permissions engines require datastores (e.g. PostgreSQL or CockroachDB for SpiceDB; PostgreSQL or MySQL for OpenFGA) and active data sync pipelines. Always benchmark latency and consistency models before deploying to production environments. 🔐
 
 ---
