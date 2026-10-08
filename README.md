@@ -70,7 +70,7 @@ Welcome to the definitive developer and security reference for **fine-grained au
 
 ## 🔓 Open-Source Authorization Engines & Repositories 🚀
 
-*Sorted by GitHub Stars_Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Casbin](https://github.com/casbin/casbin)** [![Stars](https://img.shields.io/github/stars/casbin/casbin?style=social&color=white)](https://github.com/casbin/casbin/stargazers)  
   **An authorization library supporting ACL, RBAC, ABAC**, Apache-2.0 licensed. **20,435 GitHub_Stars** — **the most widely deployed embedded authorization library**. Multi-language support across Go, Java, Node.js, Python, Rust, C++, PHP, and .NET. 🔧
