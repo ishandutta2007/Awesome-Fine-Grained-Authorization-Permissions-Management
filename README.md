@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Fine-Grained-Authorization-Permissions-Management"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Fine-Grained-Authorization-Permissions-Management?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Fine-Grained-Authorization-Permissions-Management"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Fine-Grained-Authorization-Permissions-Management?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Fine-Grained-Authorization-Permissions-Management/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Fine-Grained-Authorization-Permissions-Management?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Fine-Grained-Authorization-Permissions-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Fine-Grained-Authorization-Permissions-Management?color=blue" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -70,55 +70,55 @@ Welcome to the definitive developer and security reference for **fine-grained au
 
 ## 🔓 Open-Source Authorization Engines & Repositories 🚀
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 - **[Casbin](https://github.com/casbin/casbin)** [![Stars](https://img.shields.io/github/stars/casbin/casbin?style=social&color=white)](https://github.com/casbin/casbin/stargazers)  
-  **An authorization library supporting ACL, RBAC, ABAC**, Apache-2.0 licensed. **20,435 GitHub stars** — **the most widely deployed embedded authorization library**. Multi-language support across Go, Java, Node.js, Python, Rust, C++, PHP, and .NET. 🔧
+  **An authorization library supporting ACL, RBAC, ABAC**, Apache-2.0 licensed. **20,435 GitHub_Stars** — **the most widely deployed embedded authorization library**. Multi-language support across Go, Java, Node.js, Python, Rust, C++, PHP, and .NET. 🔧
 
 - **[Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa)** [![Stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white)](https://github.com/open-policy-agent/opa/stargazers)  
-  **General-purpose policy engine for cloud-native environments**, Apache-2.0 licensed. **12,331 GitHub stars** — **CNCF Graduated project**. Decouples policy decisions using the Rego declarative policy language across Kubernetes, microservices, APIs, and CI/CD pipelines. ☸️
+  **General-purpose policy engine for cloud-native environments**, Apache-2.0 licensed. **12,331 GitHub_Stars** — **CNCF Graduated project**. Decouples policy decisions using the Rego declarative policy language across Kubernetes, microservices, APIs, and CI/CD pipelines. ☸️
 
 - **[SpiceDB](https://github.com/authzed/spicedb)** [![Stars](https://img.shields.io/github/stars/authzed/spicedb?style=social&color=white)](https://github.com/authzed/spicedb/stargazers)  
-  **Google Zanzibar-inspired permissions database**, Apache-2.0 licensed. **7,124 GitHub stars** — **the leading mature open-source ReBAC database**. Scalably stores and queries fine-grained authorization relationships with `LookupResources` API and p99 `< 10ms` latency target. 🛡️
+  **Google Zanzibar-inspired permissions database**, Apache-2.0 licensed. **7,124 GitHub_Stars** — **the leading mature open-source ReBAC database**. Scalably stores and queries fine-grained authorization relationships with `LookupResources` API and p99 `< 10ms` latency target. 🛡️
 
 - **[CASL](https://github.com/stalniy/casl)** [![Stars](https://img.shields.io/github/stars/stalniy/casl?style=social&color=white)](https://github.com/stalniy/casl/stargazers)  
-  **Isomorphic JavaScript authorization library**, MIT licensed. **7,095 GitHub stars** — **the standard frontend & backend JS/TS permission utility**. Restricts resource access across React, Vue, Angular, Node.js, and React Native. 🟨
+  **Isomorphic JavaScript authorization library**, MIT licensed. **7,095 GitHub_Stars** — **the standard frontend & backend JS/TS permission utility**. Restricts resource access across React, Vue, Angular, Node.js, and React Native. 🟨
 
 - **[Permify](https://github.com/Permify/permify)** [![Stars](https://img.shields.io/github/stars/Permify/permify?style=social&color=white)](https://github.com/Permify/permify/stargazers)  
-  **Open-source authorization-as-a-service**, AGPL-3.0 licensed. **5,961 GitHub stars** — **Zanzibar-inspired fine-grained permissions engine**. Easily define DSL schemas and manage complex multi-tenant application authorization (now part of FusionAuth). 📦
+  **Open-source authorization-as-a-service**, AGPL-3.0 licensed. **5,961 GitHub_Stars** — **Zanzibar-inspired fine-grained permissions engine**. Easily define DSL schemas and manage complex multi-tenant application authorization (now part of FusionAuth). 📦
 
 - **[OpenFGA](https://github.com/openfga/openfga)** [![Stars](https://img.shields.io/github/stars/openfga/openfga?style=social&color=white)](https://github.com/openfga/openfga/stargazers)  
-  **High-performance relationship-based authorization engine**, Apache-2.0 licensed. **5,934 GitHub stars** — **CNCF Incubating project** (created by Auth0/Okta). Flexible JSON/DSL schema modeling with `ListObjects` API, contextual ABAC conditions, and SDKs for Go, Node, Python, Java, .NET, and Ruby. 🎯
+  **High-performance relationship-based authorization engine**, Apache-2.0 licensed. **5,934 GitHub_Stars** — **CNCF Incubating project** (created by Auth0/Okta). Flexible JSON/DSL schema modeling with `ListObjects` API, contextual ABAC conditions, and SDKs for Go, Node, Python, Java, .NET, and Ruby. 🎯
 
 - **[OPAL (Open Policy Administration Layer)](https://github.com/permitio/opal)** [![Stars](https://img.shields.io/github/stars/permitio/opal?style=social&color=white)](https://github.com/permitio/opal/stargazers)  
-  **Real-time policy and data administration layer**, Apache-2.0 licensed. **5,514 GitHub stars** — Created by Permit.io. Keeps policy agents (OPA, Cedar) in sync with real-time application state changes via WebSockets and pub/sub data updates. 🔄
+  **Real-time policy and data administration layer**, Apache-2.0 licensed. **5,514 GitHub_Stars** — Created by Permit.io. Keeps policy agents (OPA, Cedar) in sync with real-time application state changes via WebSockets and pub/sub data updates. 🔄
 
 - **[Ory Keto](https://github.com/ory/keto)** [![Stars](https://img.shields.io/github/stars/ory/keto?style=social&color=white)](https://github.com/ory/keto/stargazers)  
-  **Open-source permission server based on Google Zanzibar**, Apache-2.0 licensed. **5,408 GitHub stars** — The authorization core of the Ory ecosystem (Hydra OAuth2, Kratos Identity). High-performance gRPC/REST APIs for fine-grained ACLs and relationship checks. 🐉
+  **Open-source permission server based on Google Zanzibar**, Apache-2.0 licensed. **5,408 GitHub_Stars** — The authorization core of the Ory ecosystem (Hydra OAuth2, Kratos Identity). High-performance gRPC/REST APIs for fine-grained ACLs and relationship checks. 🐉
 
 - **[Cerbos](https://github.com/cerbos/cerbos)** [![Stars](https://img.shields.io/github/stars/cerbos/cerbos?style=social&color=white)](https://github.com/cerbos/cerbos/stargazers)  
-  **Open-core stateless authorization PDP engine**, Apache-2.0 licensed. **4,616 GitHub stars** — **Developer-loved stateless PDP**. Declarative YAML policies, GitOps-native workflows, and sub-millisecond local policy evaluation without storing relationship tuples. ⚡
+  **Open-core stateless authorization PDP engine**, Apache-2.0 licensed. **4,616 GitHub_Stars** — **Developer-loved stateless PDP**. Declarative YAML policies, GitOps-native workflows, and sub-millisecond local policy evaluation without storing relationship tuples. ⚡
 
 - **[Oso](https://github.com/osohq/oso)** [![Stars](https://img.shields.io/github/stars/osohq/oso?style=social&color=white)](https://github.com/osohq/oso/stargazers)  
-  **Declarative authorization language and embedded library**, Apache-2.0 licensed. **3,490 GitHub stars** — Uses the Polar policy language to express fine-grained permissions inside application code across Python, Node.js, Go, Rust, Ruby, and Java. 🟣
+  **Declarative authorization language and embedded library**, Apache-2.0 licensed. **3,490 GitHub_Stars** — Uses the Polar policy language to express fine-grained permissions inside application code across Python, Node.js, Go, Rust, Ruby, and Java. 🟣
 
 - **[Cedar Policy](https://github.com/cedar-policy/cedar)** [![Stars](https://img.shields.io/github/stars/cedar-policy/cedar?style=social&color=white)](https://github.com/cedar-policy/cedar/stargazers)  
-  **Expressive and fast policy language & SDK**, Apache-2.0 licensed. **1,769 GitHub stars** — Developed by AWS. Supports fine-grained access control with formal verification proving policy correctness and deterministic evaluation speed. 🌲
+  **Expressive and fast policy language & SDK**, Apache-2.0 licensed. **1,769 GitHub_Stars** — Developed by AWS. Supports fine-grained access control with formal verification proving policy correctness and deterministic evaluation speed. 🌲
 
 - **[Topaz (Aserto)](https://github.com/aserto-dev/topaz)** [![Stars](https://img.shields.io/github/stars/aserto-dev/topaz?style=social&color=white)](https://github.com/aserto-dev/topaz/stargazers)  
-  **Cloud-native hybrid authorization engine**, Apache-2.0 licensed. **1,363 GitHub stars** — Combines Google Zanzibar relationship graph directory with OPA Rego policy decision logic in a single sidecar deployment. 🔗
+  **Cloud-native hybrid authorization engine**, Apache-2.0 licensed. **1,363 GitHub_Stars** — Combines Google Zanzibar relationship graph directory with OPA Rego policy decision logic in a single sidecar deployment. 🔗
 
 - **[Warrant](https://github.com/warrant-dev/warrant)** [![Stars](https://img.shields.io/github/stars/warrant-dev/warrant?style=social&color=white)](https://github.com/warrant-dev/warrant/stargazers)  
-  **Centralized Zanzibar-based authorization engine**, Apache-2.0 licensed. **1,338 GitHub stars** — Defines, enforces, and audits fine-grained application access control (acquired by Okta and integrated into OpenFGA). 🏛️
+  **Centralized Zanzibar-based authorization engine**, Apache-2.0 licensed. **1,338 GitHub_Stars** — Defines, enforces, and audits fine-grained application access control (acquired by Okta and integrated into OpenFGA). 🏛️
 
 - **[SpiceDB Operator](https://github.com/authzed/spicedb-operator)** [![Stars](https://img.shields.io/github/stars/authzed/spicedb-operator?style=social&color=white)](https://github.com/authzed/spicedb-operator/stargazers)  
-  **Kubernetes Operator for SpiceDB**, Apache-2.0 licensed. **107 GitHub stars** — Automates SpiceDB deployment, datastore migrations, scaling, and lifecycle management on Kubernetes clusters. ☸️
+  **Kubernetes Operator for SpiceDB**, Apache-2.0 licensed. **107 GitHub_Stars** — Automates SpiceDB deployment, datastore migrations, scaling, and lifecycle management on Kubernetes clusters. ☸️
 
 - **[Keycloak OpenFGA Event Publisher](https://github.com/embesozzi/keycloak-openfga-event-publisher)** [![Stars](https://img.shields.io/github/stars/embesozzi/keycloak-openfga-event-publisher?style=social&color=white)](https://github.com/embesozzi/keycloak-openfga-event-publisher/stargazers)  
-  **Keycloak to OpenFGA event bridge**, Apache-2.0 licensed. **61 GitHub stars** — Real-time event synchronization publishing Keycloak identity and group changes directly into OpenFGA tuple relationships. 🌉
+  **Keycloak to OpenFGA event bridge**, Apache-2.0 licensed. **61 GitHub_Stars** — Real-time event synchronization publishing Keycloak identity and group changes directly into OpenFGA tuple relationships. 🌉
 
 - **[Permify CLI](https://github.com/Permify/permify-cli)** [![Stars](https://img.shields.io/github/stars/Permify/permify-cli?style=social&color=white)](https://github.com/Permify/permify-cli/stargazers)  
-  **CLI management tool for Permify**, Apache-2.0 licensed. **7 GitHub stars** — Terminal interface for managing Permify schemas, running policy validations, and testing authorization tuple stores. 🖥️
+  **CLI management tool for Permify**, Apache-2.0 licensed. **7 GitHub_Stars** — Terminal interface for managing Permify schemas, running policy validations, and testing authorization tuple stores. 🖥️
 
 ---
 
@@ -128,7 +128,7 @@ Contributions to this directory are actively encouraged! Follow these steps to s
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add or edit** entries in `README.md` following the exact table/list schema and sorting order.
-3. 🔗 Ensure project title, official website/repo link, star count badge, license, starting pricing, and clear technical descriptions are provided.
+3. 🔗 Ensure project title, official website/repo link, Stars_Count badge, license, starting pricing, and clear technical descriptions are provided.
 4. 🚀 Submit a **Pull Request** with a descriptive title detailing your additions.
 
 ---
